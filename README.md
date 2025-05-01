@@ -1,5 +1,7 @@
 # Hamiltonian Deep Neural Networks
 
+hi, this is a test for github functionality.
+
 PyTorch implementation of Hamiltonian deep neural networks as presented in ["Hamiltonian Deep Neural Networks Guaranteeing Non-vanishing Gradients by Design"](https://arxiv.org/pdf/2105.13205.pdf).
 
 ## Installation
